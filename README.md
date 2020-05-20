@@ -10,6 +10,6 @@ how to custome your own dataset
 3. create folder "labels_CSV": test_labels.csv+train_labels.csv
 4. create folder "record_file": test.record+train.record
 5. create folder "iron_inference_graph"
-6. create folder "model"
+6. create folder "model": download by this link: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
 7. create folder "output"
 8. create folder "test","train","training"
